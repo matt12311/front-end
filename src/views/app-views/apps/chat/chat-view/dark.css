@@ -1,0 +1,119 @@
+::-webkit-scrollbar {
+    width: 2; /* Remove scrollbar space */
+    background: transparent; /* Optional: just make scrollbar invisible */
+}
+.chat{
+  background-color: #212124 !important;
+}
+
+.ce-active-chat-card {
+    background-color: #6C5BB8 !important;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    font-size: 18px !important;
+    font-family: Avenir, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+      Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    letter-spacing: 0.5px;
+
+    font-weight: 600;
+}
+.ce-chat-list{
+  background-color: #212124 !important;
+}
+.ce-chat-card{
+    color:#96A4A6 !important;
+    font-family: Avenir, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+      Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    letter-spacing: 0.5px;
+    border: 0px solid #212124 !important; border-radius: 12px !important;
+}
+.ce-chat-subtitle-text{
+    color: #48A4FF !important;
+    font-family: Avenir, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+      Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    letter-spacing: 0.5px;
+}
+.ce-settings {
+  background-color: #212124 !important;
+}
+.ce-settings-container{
+    color:#161618 !important;
+    background-color: #212124 !important;
+    font-family: Avenir, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+      Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    letter-spacing: 0.5px;
+}
+
+.ce-chats-container{
+  background-color: #212124 !important;
+
+}
+.ce-chat-feed{
+  background-color: #212124 !important;
+}
+.ce-chat-title{
+  background-color: #212124 !important;
+
+}
+.ce-feed-container-top{
+  background-color: #212124 !important;
+
+}
+.ce-chat-feed-container{
+  background-color: #212124 !important;
+
+}
+
+.ce-message-form-container{
+  background-color: #212124 !important;
+
+}
+.ce-message-date-text{
+  color:#96A4A6 !important;
+}
+.ce-settings{
+  background-color: #212124 !important;
+
+}
+.ce-person-title-container{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+
+}
+
+.ce-input{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+
+}
+.ce-photo-title-container{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+
+}
+.ce-person-container{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+}
+.ce-autocomplete-options{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+}
+#ce-options-drop-down{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+}
+
+#ce-options-drop-down{
+  background-color: #212124 !important;
+  color:#96A4A6 !important;
+}
+#toolbar{
+  color:#96A4A6 !important;
+
+}
